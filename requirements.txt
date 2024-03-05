@@ -1,0 +1,9 @@
+python-dotenv
+flask
+gradio
+pyyaml
+pdfplumber
+reportlab
+langchain
+langchainhub
+langchain-openai

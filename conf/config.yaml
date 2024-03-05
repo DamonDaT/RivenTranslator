@@ -1,0 +1,5 @@
+model_name: 'gpt-4'
+input_file: '/home/dateng/code/SSH/RivenTranslator_SSH/data/TEST_EN.pdf'
+output_file_format: 'MarkDown'
+source_language: 'English'
+target_language: 'Chinese'
